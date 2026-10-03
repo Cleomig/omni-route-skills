@@ -1,0 +1,22 @@
+{
+  "name": "omni-route-agent-skills",
+  "version": "1.0.0",
+  "description": "Agent skills for OmniRoute - Development and infrastructure skills for AI agents",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "keywords": [
+    "omniroute",
+    "agent",
+    "skills",
+    "ai",
+    "developer-tools"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}

@@ -90,6 +90,7 @@ Estos skills están diseñados para ser usados con OmniRoute Agent Skills. Para 
 3. Los agentes podrán usar estos skills cuando detecten los triggers correspondientes
 
 **Repositorio:** https://github.com/Cleomig/omni-route-skills
+**Branch principal:** master
 
 ## Licencia
 
